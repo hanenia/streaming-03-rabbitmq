@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2024-05-17 at 09:13 PM
+ Operating System: nt Windows 11
+ System Architecture: 64bit
+ Number of CPUs: 12
+ Machine Type: AMD64
+ Python Version: 3.12.3
+ Python Build Date and Compiler: main with May  6 2024 19:42:21
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         c:\Users\berek\streaming-03-rabbitmq\.conda\python.exe
+ Path to virtual environment: c:\Users\berek\streaming-03-rabbitmq\.conda
+ Current Working Directory:   C:\Users\berek\streaming-03-rabbitmq
+ Path to source directory:    C:\Users\berek\streaming-03-rabbitmq
+ Path to script file:         C:\Users\berek\streaming-03-rabbitmq\util_about.py
+ User's Home Directory:       C:\Users\berek
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Preferred command:           python
+ Is python available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================

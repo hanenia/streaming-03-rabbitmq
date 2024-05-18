@@ -35,3 +35,7 @@ channel.queue_declare(queue="hello")
 channel.basic_publish(exchange="", routing_key="hello", body=message)
 print(f" [x] Sent '{message}'")
 connection.close()
+python util_about.py
+python util_aboutenv.py
+python util_aboutrabbit.py
+pip list
